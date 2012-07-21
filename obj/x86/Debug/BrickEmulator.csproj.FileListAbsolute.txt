@@ -1,0 +1,20 @@
+C:\Users\Wichard\AppData\Local\Temporary Projects\BrickEmulator\bin\Debug\BrickEmulator.exe
+C:\Users\Wichard\AppData\Local\Temporary Projects\BrickEmulator\bin\Debug\BrickEmulator.pdb
+C:\Users\Wichard\AppData\Local\Temporary Projects\BrickEmulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wichard\AppData\Local\Temporary Projects\BrickEmulator\obj\x86\Debug\BrickEmulator.exe
+C:\Users\Wichard\AppData\Local\Temporary Projects\BrickEmulator\obj\x86\Debug\BrickEmulator.pdb
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\bin\Debug\configure.ini
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.exe.config
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.exe
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.pdb
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\bin\Debug\MySql.Data.dll
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\obj\x86\Debug\BrickEmulator.exe
+C:\Users\Wichard\documents\visual studio 2010\Projects\BrickEmulator\BrickEmulator\obj\x86\Debug\BrickEmulator.pdb
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\bin\Debug\configure.ini
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.exe.config
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.exe
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\bin\Debug\BrickEmulator.pdb
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\obj\x86\Debug\BrickEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\obj\x86\Debug\BrickEmulator.exe
+C:\Users\Wichard\Desktop\BrickEmulator\BrickEmulator\BrickEmulator\obj\x86\Debug\BrickEmulator.pdb
